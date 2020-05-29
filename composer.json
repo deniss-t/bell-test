@@ -11,5 +11,7 @@
         "App\\": ""
       }
     },
-    "require": {}
+    "require": {
+        "ccampbell/chromephp": "^4.1"
+    }
 }
